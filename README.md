@@ -52,8 +52,8 @@
 
 ## 📫 Connect with Me  
 📧 **Email:** [arlenedcosta77@gmail.com](mailto:arlenedcosta77@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/arlene-dcosta](https://linkedin.com/in/arlenedcosta)  
-🚀 **GitHub:** [github.com/yourgithubusername](https://github.com/ArleneDcosta)  
+💼 **LinkedIn:** [linkedin.com/in/arlenedcosta](https://linkedin.com/in/arlenedcosta)  
+🚀 **GitHub:** [github.com/ArleneDcosta](https://github.com/ArleneDcosta)  
 
 ---
 
