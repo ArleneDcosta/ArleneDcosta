@@ -5,7 +5,7 @@
 🌍 Passionate about building **scalable, reliable, and automated solutions**  
 
 ---
-![](https://komarev.com/ghpvc/?username=ArleneDcosta&base=1000)
+![](https://komarev.com/ghpvc/?username=ArleneDcosta&base=0)
 
 ## 🔹 About Me  
 - Experienced in **backend development**, **cloud automation**, and **data engineering** with over **3 years of experience**.  
