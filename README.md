@@ -18,7 +18,7 @@
 ## 🚀 Technical Skills  
 ### **Languages & Frameworks**  
 - **Python** | Flask | Django | JavaScript | React.js | Node.js  
-- **SQL** (PostgreSQL, BigQuery, MySQL) | NoSQL (DynamoDB, MongoDB, AWS Neptune)  
+- **SQL** (PostgreSQL, BigQuery, MySQL) | NoSQL (DynamoDB, MongoDB, AWS Neptune)  | Data Warehouse (Snowflake, Bigquery)
 
 ### **Cloud & DevOps**  
 - **AWS**: Lambda, API Gateway, Step Functions, Neptune, S3, CloudWatch, RDS  
