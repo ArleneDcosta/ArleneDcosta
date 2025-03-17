@@ -49,6 +49,9 @@
 - Built and optimized **Django backend with REST APIs & serializers**.  
 - Implemented **database management & caching strategies** for performance optimization.  
 
+### **🔹 Book Application **  
+- Designed and implemented model classes using Hibernate ORM to map relational database tables to Java objects, ensuring efficient entity relationships (One-to-Many, Many-to-One, etc.).
+- Developed robust controller logic in Spring MVC, managing RESTful API endpoints for book-related operations (CRUD) while following best practices for clean architecture.
 ---
 
 ## 📫 Connect with Me  
