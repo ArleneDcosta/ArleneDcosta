@@ -17,7 +17,7 @@
 
 ## 🚀 Technical Skills  
 ### **Languages & Frameworks**  
-- **Python** | Flask | Django | JavaScript | React.js | Node.js  
+- **Python**|**Java** | Flask | Django | JavaScript | React.js | Node.js  
 - **SQL** (PostgreSQL, BigQuery, MySQL) | NoSQL (DynamoDB, MongoDB, AWS Neptune)  | Data Warehouse (Snowflake, Bigquery)
 
 ### **Cloud & DevOps**  
